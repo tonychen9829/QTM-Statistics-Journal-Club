@@ -6,7 +6,8 @@ We are affiliated to the [Department of Quantitative Theory and Methods](http://
 
 ### Upcomoing Seminar
 
-- Sept 15: Topic: **Introduction to Journal Club**. Speaker: Tony Chen (founder of QTM Journal Club)
+- Sept 15: **Introduction to Journal Club**. <br /> 
+Speaker: Tony Chen (founder of QTM Journal Club)
 
 ### Past Seminar
 
