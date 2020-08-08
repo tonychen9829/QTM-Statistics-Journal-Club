@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Welcome to QTM Statistics Journal Club
+
+### Affiliated to Department of Quantitative Theory & Methods, Emory University
 
 You can use the [editor on GitHub](https://github.com/tonychen9829/qtmjournalclub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
