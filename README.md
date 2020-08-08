@@ -15,6 +15,9 @@ _Past seminars can be found here_.
 
 ### Contact
 
-Tony Chen <br />
+1. Tony Chen <br />
+Department of Quantitative Theory & Methods, Emory University
+
+2. Areanna Sabine <br />
 Department of Quantitative Theory & Methods, Emory University
 
