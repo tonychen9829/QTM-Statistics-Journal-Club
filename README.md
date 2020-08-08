@@ -2,7 +2,7 @@
 
 ### Department of Quantitative Theory & Methods, Emory University
 
-We are affiliated to the [Department of Quantitative Theory and Methods](http://quantitative.emory.edu/), who trains students in the intersection of liberal arts, statistics, and data science.
+We are affiliated to the [Department of Quantitative Theory and Methods](http://quantitative.emory.edu/), who trains students in the intersection of liberal arts, statistics, and data science. Here, we discuss the latest methodologies in statistics and their novel applications.
 
 ### Upcoming Seminar
 
