@@ -2,36 +2,15 @@
 
 ### Department of Quantitative Theory & Methods, Emory University
 
-We are affiliated to the [Department of Quantitative Theory and Methodse](http://quantitative.emory.edu/), who trains students in the intersection of liberal arts, statistics, and data science.
+We are affiliated to the [Department of Quantitative Theory and Methods](http://quantitative.emory.edu/), who trains students in the intersection of liberal arts, statistics, and data science.
 
-### Markdown
+### Upcomoing Seminar
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Sept 15: Topic: Introduction to Journal Club. Speaker: Tony Chen (founder of QTM Journal Club)
 
-```markdown
-Syntax highlighted code block
+### Past Seminar
 
-# Header 1
-## Header 2
-### Header 3
+_Past seminars can be found here_.
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tonychen9829/qtmjournalclub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
