@@ -4,7 +4,7 @@
 
 We are affiliated to the [Department of Quantitative Theory and Methods](http://quantitative.emory.edu/), who trains students in the intersection of liberal arts, statistics, and data science.
 
-### Upcomoing Seminar
+### Upcoming Seminar
 
 - Sept 15: **Introduction to Journal Club**. <br /> 
 Speaker: Tony Chen (founder of QTM Journal Club)
@@ -14,4 +14,7 @@ Speaker: Tony Chen (founder of QTM Journal Club)
 _Past seminars can be found here_.
 
 ### Contact
+
+Tony Chen <br />
+Department of Quantitative Theory & Methods, Emory University
 
