@@ -1,10 +1,8 @@
 # Welcome to QTM Statistics Journal Club
 
-### Affiliated to Department of Quantitative Theory & Methods, Emory University
+### Department of Quantitative Theory & Methods, Emory University
 
-You can use the [editor on GitHub](https://github.com/tonychen9829/qtmjournalclub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are affiliated to the [Department of Quantitative Theory and Methodse](http://quantitative.emory.edu/), who trains students in the intersection of liberal arts, statistics, and data science.
 
 ### Markdown
 
