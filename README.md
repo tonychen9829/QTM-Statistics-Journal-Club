@@ -7,7 +7,7 @@ We're affiliated to [Department of Quantitative Theory & Methods](http://quantit
 
 ### Upcoming Seminar
 
-- Oct 2 (13:00-14:00 EST): **Parameter Estimation in Infectious Disease Modeling**. <br /> 
+- Oct 2: **Parameter Estimation in Infectious Disease Modeling**. <br /> 
 Speaker: Tony Chen (founder)
 
 ### Past Seminar
@@ -18,7 +18,7 @@ _Past seminars can be found here_.
 Speaker: Tony Chen (founder of QTM Journal Club)
 
 ### Meeting Venue
-In the light of COVID-19 pandemic, we meet online at [Zoom Room for QTM Jounal Club](https://emory.zoom.us/j/97886042991) because we value **quantitative** scientific evidence supporting social distancing. <br />
+In the light of COVID-19 pandemic, we meet online at [Zoom Room for QTM Jounal Club](https://emory.zoom.us/j/97886042991) on Friday 13:00 to 14:00 PM Eastern Time , because we value **quantitative** scientific evidence supporting social distancing. <br />
 Grab a drink and some chips--Get comfy and let's talk stats! 
 
 
