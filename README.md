@@ -1,7 +1,10 @@
 # Welcome to QTM Statistics Journal Club
-
 ### Department of Quantitative Theory & Methods, Emory University
-  
+
+<p align="center">
+<img src="logo.png" width="200">
+</p>
+
 We are affiliated to the [Department of Quantitative Theory and Methods](http://quantitative.emory.edu/), who trains students in the intersection of liberal arts, statistics, and data science. Here, we discuss the latest methodologies in statistics and data science, along with their novel applications, in an interdisciplinary fashion. We are glad you are here!
 
 ### Upcoming Seminar
