@@ -18,7 +18,7 @@ Speaker: Tony Chen (founder of QTM Journal Club)
 
 ### Contact
 
-1. [Tony Chen]((mailto:tony.chen2@emory.edu)) <br />
+1. [Tony Chen](mailto:tony.chen2@emory.edu) <br />
 Founder & Organizer <br />
 Department of Quantitative Theory & Methods, Emory University
 
