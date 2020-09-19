@@ -3,7 +3,7 @@
 
 <img align="right" src="logo.png" width="190" height="130">
 
-We are affiliated to [Department of Quantitative Theory & Methods](http://quantitative.emory.edu/) at Emory University, who trains students in the intersection of liberal arts, statistics, and data science. Here, we discuss the latest methodologies in statistics and data science, with their novel interdisciplinary applications. Whether you are from Econ, Psych, Poli Sci, Biomedical Sciences, or even _hardcore_ Math/CS theoretical background, y'all are cordially welcomed. Please fill out [This Form](https://forms.gle/ZjpDyLyK2k43BTpt7) to receive seminar materials if desire. We are super glad you are here! 
+We're affiliated to [Department of Quantitative Theory & Methods](http://quantitative.emory.edu/) at Emory University, who trains students in the intersection of liberal arts, statistics, and data science. Here, we discuss the latest methodologies in statistics and data science, with their novel interdisciplinary applications. Whether you are from Economics, Psychology, Political Science, Biomedical Sciences, or even _hardcore_ Math/CS theoretical background, y'all are cordially welcomed. Please fill out [This Form](https://forms.gle/ZjpDyLyK2k43BTpt7) to receive seminar materials if desire. We are super glad you are here! 
 
 ### Upcoming Seminar
 
