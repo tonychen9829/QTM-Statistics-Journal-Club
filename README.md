@@ -18,7 +18,8 @@ _Past seminars can be found here_.
 Speaker: Tony Chen (founder of QTM Journal Club)
 
 ### Meeting Venue
-In the light of COVID-19 pandemic, we meet online at [Zoom Room for QTM Jounal Club](https://emory.zoom.us/j/97886042991) because we value **quantitative** scientific evidence supporting social distancing. Grab a drink and some chips--Get comfy and let's talk stats! 
+In the light of COVID-19 pandemic, we meet online at [Zoom Room for QTM Jounal Club](https://emory.zoom.us/j/97886042991) because we value **quantitative** scientific evidence supporting social distancing. <br />
+Grab a drink and some chips--Get comfy and let's talk stats! 
 
 
 ### Contact
