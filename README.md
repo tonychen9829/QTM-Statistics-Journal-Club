@@ -18,11 +18,11 @@ Speaker: Tony Chen (founder of QTM Journal Club)
 
 ### Contact
 
-1. [Tony Chen](mailto:tony.chen2@emory.edu) <br />
+1. [Tony H. Chen](mailto:tony.chen2@emory.edu) <br />
 Founder & Organizer <br />
 Department of Quantitative Theory & Methods, Emory University
 
-2. [Areanna Sabine](http://www.quantitative.emory.edu/about/staff/sabine-areanna.html) <br />
+2. [Areanna N. Sabine](http://www.quantitative.emory.edu/about/staff/sabine-areanna.html) <br />
 Undergraduate Program Coordinator <br />
 Department of Quantitative Theory & Methods, Emory University
 
