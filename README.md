@@ -7,7 +7,7 @@ We're affiliated to [Department of Quantitative Theory & Methods](http://quantit
 
 ### Upcoming Seminar
 
-- Oct 2: **Parameter Estimation in Infectious Disease Modeling**. <br /> 
+- Oct 2 (13:00-14:00 EST): **Parameter Estimation in Infectious Disease Modeling**. <br /> 
 Speaker: Tony Chen (founder)
 
 ### Past Seminar
