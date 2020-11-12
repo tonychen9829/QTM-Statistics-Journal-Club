@@ -7,12 +7,18 @@ We're affiliated to [Department of Quantitative Theory & Methods](http://quantit
 
 ### Upcoming Seminar
 
-- Oct 9: **Parameter Estimation in Infectious Disease Modeling**. <br /> 
-Speaker: Tony Chen
+- Nov 27: Surveying. <br /> 
+Speaker: Surveying
 
 ### Past Seminar
 
 _Past seminars can be found here_.
+
+- Nov 6: **Parameter Estimation in Infectious Disease Modeling (2)**. <br /> 
+Speaker: Tony Chen
+
+- Oct 9: **Parameter Estimation in Infectious Disease Modeling (1)**. <br /> 
+Speaker: Tony Chen
 
 - Sept 15: **Introduction to Journal Club & Topics Selection**. <br /> 
 Speaker: Tony Chen (founder of QTM Journal Club)
