@@ -7,7 +7,7 @@ We're affiliated to [Department of Quantitative Theory & Methods](http://quantit
 
 ### Upcoming Seminar
 
-- Mar 12: Pyschometrics: Measure Behavior Statistically. <br /> 
+- Mar 12: **Psychometrics: Measure Behavior Statistically**. <br /> 
 Speaker: Tony Chen
 
 ### Past Seminar
