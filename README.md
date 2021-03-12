@@ -7,8 +7,8 @@ We're affiliated to [Department of Quantitative Theory & Methods](http://quantit
 
 ### Upcoming Seminar
 
-- Nov 27: Surveying. <br /> 
-Speaker: Surveying
+- Mar 12: Pyschometrics: Measure Behavior Statistically. <br /> 
+Speaker: Tony Chen
 
 ### Past Seminar
 
